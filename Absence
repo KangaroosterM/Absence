@@ -1,0 +1,23 @@
+__author__ = 'Gabriel Green'
+print('What is your name?')
+playername = input()
+info1 = "deserts"
+info2 = "seas"
+info3 = "mountains"
+info4 = "forests"
+info5 = "swamps"
+print('Hello',playername,'\n''Where are you from?')
+print()
+print('You may choose from: deserts, seas, mountains, forests, or swamps.')
+print()
+print("""(For in-depth explanations of the people from these places type "info" then the corresponding place.)""")
+print()
+print("""(All letters should be lower-case.)""")
+placeanswer = input()
+if placeanswer == "info deserts":
+    print("As you might expect, desert living results in a person that's used to a lack of water and food"'\n'
+          "yet is able to attain these essentials through know-how learned by trial, error, and elders. However"'\n'
+          """savvy; A person from an arid region is not likely to know how to live in more "civilized" society"""'\n'
+          "and often acclimates slowly in any region other than one that's heated.")
+if placeanswer == "info seas":
+    print("Whether it be")
