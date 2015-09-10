@@ -1,11 +1,7 @@
 __author__ = 'Gabriel Green'
 print('What is your name?')
 playername = input()
-info1 = "deserts"
-info2 = "seas"
-info3 = "mountains"
-info4 = "forests"
-info5 = "swamps"
+print()
 print('Hello',playername,'\n''Where are you from?')
 print()
 print('You may choose from: deserts, seas, mountains, forests, or swamps.')
@@ -20,4 +16,5 @@ if placeanswer == "info deserts":
           """savvy; A person from an arid region is not likely to know how to live in more "civilized" society"""'\n'
           "and often acclimates slowly in any region other than one that's heated.")
 if placeanswer == "info seas":
-    print("Whether it be")
+    print("Whether it be on a massive floating city or bustling port, people close to the sea are resilient are as"'\n'
+          "they come)
