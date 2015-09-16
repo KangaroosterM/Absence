@@ -17,4 +17,8 @@ if placeanswer == "info deserts":
           "and often acclimates slowly in any region other than one that's heated.")
 if placeanswer == "info seas":
     print("Whether it be on a massive floating city or bustling port, people close to the sea are resilient are as"'\n'
-          "they come)
+          "they come. Typically in tight-knit communities a person will know how to communicate well and if"'\n'
+          "you're looking to travel the high seas there's no better way than to have a savvy sailor by your side."'\n'
+          "A person who is used to the water may not fair well when faced with living off of the land in areas"'\n'
+          "that are largely unpopulated.'\n'"
+          "Press Enter to go back to the question.")
